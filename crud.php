@@ -79,7 +79,7 @@ if(isset($_POST["listar"]))
         $no = $linhas["nome"];
         $t = $linhas["telefone"];
         $e = $linhas["email"];
-        echo "Nick: $n Senha: $s Nome: $no Telefone: $t E-mail: $e <br>";
+        echo "nick: $n senha: $s nome: $no telefone: $t e-mail: $e <br>";
     }
 }
 ?>
